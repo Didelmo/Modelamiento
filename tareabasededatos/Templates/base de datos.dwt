@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Documento sin título</title>
+	
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<link href="../basededatos.final.css" rel="stylesheet" type="text/css">
+<body>
+	<header>
+<section id="Imagenes">
+        <img src="../Paul Muller.jpg" alt="banner" id="banner">
+        	<img src="../departamento6.jpg" alt="banner" id="banneri"> 
+            </section>
+            <section id="CuerpoDocumento"><!-- TemplateBeginEditable name="EditRegion3" -->EditRegion3<!-- TemplateEndEditable --></section>
+            <ul id="Menú">
+
+           	  <li><a href="../caratula.html">Carátula</a></li>
+                    <li><a href="../concepto.html">Concepto</a></li>
+                    <li><a href="../bizagi.html">Bizagi</a></li> 
+                    <li><a href="../Mer.html">MER</a></li>
+				<li><a href="../Mr.html">MR</a></li>
+                    <li><a href="#">SQL</a></li>
+                    <li><a href="../conclusion.html">Conclusion</a></li>
+                    <li><a href="../gracias 02.html">Gracias</a></li>
+				</ul>   
+	</header>
+</body>
+</html>
